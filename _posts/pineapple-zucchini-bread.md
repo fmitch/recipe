@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - soup
   - squash
-category:
+categories:
   - soups
 authors:
   - name: Elaine Mitchell

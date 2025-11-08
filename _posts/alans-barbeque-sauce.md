@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - sauce
   - bbq
-category:
+categories:
   - sauces
 authors:
   - name: Elaine Mitchell

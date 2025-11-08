@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - chips
-category:
+categories:
   - side-dishes
 authors:
   - name: Elaine Mitchell

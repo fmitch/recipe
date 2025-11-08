@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - coconut
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

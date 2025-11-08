@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - borrowed
   - dessert
   - microwave

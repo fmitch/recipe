@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - coconut cake
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

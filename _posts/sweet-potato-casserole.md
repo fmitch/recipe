@@ -1,11 +1,11 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - casserole
   - sweet potato
-category:
+categories:
   - desserts
   - side-dishes
 authors:

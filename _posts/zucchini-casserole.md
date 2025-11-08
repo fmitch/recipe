@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - vegetable
   - casserole
-category:
+categories:
   - side dishes
 authors:
   - name: Elaine Mitchell

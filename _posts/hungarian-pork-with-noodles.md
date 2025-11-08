@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - pork
   - noodles
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

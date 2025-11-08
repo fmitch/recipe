@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
   - noodles
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

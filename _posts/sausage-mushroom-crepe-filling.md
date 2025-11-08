@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - breakfast
   - savory
 description: Filling for crepes

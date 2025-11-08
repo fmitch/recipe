@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - potato
-category:
+categories:
   - breakfast
 authors:
   - name: Elaine Mitchell

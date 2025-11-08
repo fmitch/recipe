@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - cherry
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - drinks
-category:
+categories:
   - drinks
 authors:
   - name: Elaine Mitchell

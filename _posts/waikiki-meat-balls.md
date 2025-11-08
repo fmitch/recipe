@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - beef
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

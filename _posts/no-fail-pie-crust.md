@@ -1,7 +1,7 @@
 ---
-tag:
+tags:
   - dessert
-category:
+categories:
   - desserts
 ---
 Choose from either two or four crusts. Four crust recipe from [allrecipes Easy No-Fail Pie Crust](https://www.allrecipes.com/recipe/15730/no-fail-pie-crust-ii/)

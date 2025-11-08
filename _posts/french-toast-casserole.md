@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - breakfast
   - casserole
-category:
+categories:
   - breakfast
 authors:
   - name: Elaine Mitchell

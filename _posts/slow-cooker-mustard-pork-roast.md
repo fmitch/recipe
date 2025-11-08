@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - roast
   - pork
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

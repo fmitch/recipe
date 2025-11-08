@@ -1,11 +1,11 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - chocolate
   - salad
-category:
+categories:
   - desserts
   - salads
 authors:

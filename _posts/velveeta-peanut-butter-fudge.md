@@ -1,11 +1,11 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - fudge
   - peanut butter
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

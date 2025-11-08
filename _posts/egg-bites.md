@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - breakfast
 description: Egg Bites
 ---

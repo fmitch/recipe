@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - bread 
   - homebrew
 authors:

@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - homebrew
   - chicken
 authors:

@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - soup
-category:
+categories:
   - soups
 authors:
   - name: Elaine Mitchell

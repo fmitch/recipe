@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - salmon
   - fish
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

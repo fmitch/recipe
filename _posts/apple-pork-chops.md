@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - pork
   - apple
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - salad
-category:
+categories:
   - salads
 authors:
   - name: Elaine Mitchell

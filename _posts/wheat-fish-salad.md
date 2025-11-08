@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - fish
   - salad
-category:
+categories:
   - salads
 authors:
   - name: Elaine Mitchell

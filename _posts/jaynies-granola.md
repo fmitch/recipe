@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - granola
   - cereal
-category:
+categories:
   - cereal
 authors:
   - name: Elaine Mitchell

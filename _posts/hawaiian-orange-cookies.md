@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - orange
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

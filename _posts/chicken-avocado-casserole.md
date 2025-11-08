@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
   - casserole
-category:
+categories:
   - meats
 authors:
   - name: Elaine Mitchell

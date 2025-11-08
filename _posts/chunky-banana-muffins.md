@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - bread
   - dessert
-category:
+categories:
   - breads
 authors:
   - name: Elaine Mitchell

@@ -1,9 +1,9 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dressing
-category:
+categories:
   - sauces
 authors:
   - name: Elaine Mitchell

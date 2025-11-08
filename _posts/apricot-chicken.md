@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
   - apricot
-category:
+categories:
   - meants
 authors:
   - name: Elaine Mitchell

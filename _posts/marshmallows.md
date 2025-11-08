@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
   - christmas
-category:
+categories:
   - desserts
 authors:
   - name: Elaine Mitchell

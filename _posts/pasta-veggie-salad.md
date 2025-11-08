@@ -1,10 +1,10 @@
 ---
-tag:
+tags:
   - analaine
   - Grandma Elaine
   - pasta
   - salad
-category:
+categories:
   - salads
 authors:
   - name: Elaine Mitchell
