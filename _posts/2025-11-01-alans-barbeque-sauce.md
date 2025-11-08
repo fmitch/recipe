@@ -1,5 +1,5 @@
 ---
-title: "Post: Modified Date"
+title: "Alan's Barbeque Sauce - AHC"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
 tag:
@@ -13,7 +13,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Alan's Barbeque Sauce - AHC
 From Analaine's Home Cooking
 
 My son Alan runs beef cattle on a ranch in Utah's west desert.
