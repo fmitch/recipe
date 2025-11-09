@@ -1,6 +1,5 @@
 ---
-title: "Apple Strudel - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Apple Strudel - AHC
 From Analaine's Home Cooking
 
 My son Alan spent 2 years in Austria, and came home with this recipe. He managed to coax it

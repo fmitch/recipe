@@ -1,6 +1,5 @@
 ---
-title: "Butterfinger Delight - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Butterfinger Delight - AHC
 From Analaine's Home Cooking
 
 It was over 30 years ago when I first tasted this delicious treat. My friend, Marceil McKenzie,

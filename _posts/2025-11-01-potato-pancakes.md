@@ -1,6 +1,5 @@
 ---
-title: "Potato Pancakes - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - potato
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Potato Pancakes - AHC
 From Analaine's Home Cooking
 
 This is an old recipe of my mother's. I had not made it for ages, but I came across it recently.

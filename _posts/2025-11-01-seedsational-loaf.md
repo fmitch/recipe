@@ -1,12 +1,12 @@
 ---
-title: "Seedsational Loaf
-"tags:
+tags:
   - bread 
   - homebrew
 authors:
   - name: Sarah Mitchell
 ---
 
+# Seedsational Loaf
 Whole-grain harvest loaf filled with seeds.
 
 ## info  

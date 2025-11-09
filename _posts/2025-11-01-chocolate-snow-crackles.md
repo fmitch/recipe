@@ -1,6 +1,5 @@
 ---
-title: "Chocolate Snow Crackles - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -12,6 +11,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Chocolate Snow Crackles - AHC
 From Analaine's Home Cooking
 
 I have 8 granddaughters, ranging in age from 16 to 26, and they all like to cook, some more

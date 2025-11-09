@@ -1,6 +1,5 @@
 ---
-title: "Waikiki Meat Balls
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - beef
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Waikiki Meat Balls
 From Analaine's Home Cooking
 
 Do you ever feel like you need a little variation from the standard old meatball?

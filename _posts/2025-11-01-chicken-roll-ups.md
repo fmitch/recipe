@@ -1,6 +1,5 @@
 ---
-title: "Chicken Roll-ups - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Chicken Roll-ups - AHC
 From Analaine's Home Cooking
 
 My brother Henry, and his wife Grace invited me to accompany them on a trip to Yellowstone

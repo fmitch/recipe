@@ -1,6 +1,5 @@
 ---
-title: "Apple Pork Chops - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - pork
@@ -13,6 +12,7 @@ authors:
 
 ---
 
+# Apple Pork Chops - AHC
 From Analaine's Home Cooking
 
 It used to be that when I would cook pork chops I would always season them with onion, garlic,

@@ -1,6 +1,5 @@
 ---
-title: "French Toast Casserole - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - breakfast
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# French Toast Casserole - AHC
 From Analaine's Home Cooking
 
 It was Christmas morning with my daughter Sharon. I had gone over early to enjoy the

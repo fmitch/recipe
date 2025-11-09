@@ -1,6 +1,5 @@
 ---
-title: "Fresh Peach Pie - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Fresh Peach Pie - AHC
 From Analaine's Home Cooking
 
 The next best thing to a fresh peach picked right off the tree is this Fresh Peach Pie.

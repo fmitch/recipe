@@ -1,6 +1,5 @@
 ---
-title: "Lemon-Zucchini Cookies - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Lemon-Zucchini Cookies - AHC
 From Analaine's Home Cooking
 
 The zucchini is on, and here's another way to use that prolific vegetable. My quilting friend,

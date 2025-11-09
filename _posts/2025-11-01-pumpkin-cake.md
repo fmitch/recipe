@@ -1,6 +1,5 @@
 ---
-title: "Pumpkin Cake - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Pumpkin Cake - AHC
 From Analaine's Home Cooking
 
 While pumpkin pie is traditional for Thanksgiving, there's no reason we can't enjoy the rich,

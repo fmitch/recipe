@@ -1,6 +1,5 @@
 ---
-title: "Country Chicken - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Country Chicken - AHC
 From Analaine's Home Cooking
 
 There are numerous ways to have fried chicken, and this is one more variation. It's moist and

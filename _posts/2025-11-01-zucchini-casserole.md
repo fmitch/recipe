@@ -1,6 +1,5 @@
 ---
-title: "Zucchini Casserole - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - vegetable
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Zucchini Casserole - AHC
 From Analaine's Home Cooking
 
 I've been collecting zucchini recipes for over 50 years now. In fact, I have so many I keep them

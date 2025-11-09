@@ -1,6 +1,5 @@
 ---
-title: "Prune Cake Supreme - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Prune Cake Supreme - AHC
 From Analaine's Home Cooking
 
 When I was in high school, I worked at a packing shed when the prunes were on. I like them

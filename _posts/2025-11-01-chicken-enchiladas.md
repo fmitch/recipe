@@ -1,6 +1,5 @@
 ---
-title: "Chicken Enchiladas - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Chicken Enchiladas - AHC
 From Analaine's Home Cooking
 
 Whenever I cook a chicken - either bake it or boil it - I figure I can get at least 2 meals out of it.

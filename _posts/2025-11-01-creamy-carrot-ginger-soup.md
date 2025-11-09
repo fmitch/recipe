@@ -1,6 +1,5 @@
 ---
-title: "Creamy Carrot-Ginger Soup - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Creamy Carrot-Ginger Soup - AHC
 From Analaine's Home Cooking
 
 I have a friend in the Daughters of the American Revolution who runs a little restaurant. This is

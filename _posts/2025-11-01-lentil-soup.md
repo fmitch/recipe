@@ -1,6 +1,5 @@
 ---
-title: "Lentil Soup - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Lentil Soup - AHC
 From Analaine's Home Cooking
 
 It's cold weather and time for some heart-warming and healthy soups. This basic recipe I've had

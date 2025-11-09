@@ -1,6 +1,5 @@
 ---
-title: "Honey Mustard Salad Dressing - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dressing
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Honey Mustard Salad Dressing - AHC
 From Analaine's Home Cooking
 
 It doesn't matter the time of year, it seems that salads are on the menu the year around.

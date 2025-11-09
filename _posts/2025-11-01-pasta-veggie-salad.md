@@ -1,6 +1,5 @@
 ---
-title: "Pasta-Veggie Salad - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - pasta
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Pasta-Veggie Salad - AHC
 From Analaine's Home Cooking
 
 Summer is a great time for salads, so I am going to be sending a variety for the next 3 or 4

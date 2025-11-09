@@ -1,6 +1,5 @@
 ---
-title: "Chicken Casserole - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Chicken Casserole - AHC
 From Analaine's Home Cooking
 
 My friend, Vera Reynolds, was a retired Home Ec Teacher at Logan High School. She had a

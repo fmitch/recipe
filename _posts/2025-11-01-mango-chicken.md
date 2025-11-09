@@ -1,6 +1,5 @@
 ---
-title: "Mango Chicken - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Mango Chicken - AHC
 From Analaine's Home Cooking
 
 Seems like I'm always looking for another way to serve chicken. This one is from my friend

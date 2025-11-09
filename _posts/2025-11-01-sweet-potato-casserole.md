@@ -1,6 +1,5 @@
 ---
-title: "Sweet Potato Casserole - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -13,6 +12,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Sweet Potato Casserole - AHC
 From Analaine's Home Cooking
 
 My grandson, Colin, was married at Thanksgiving time last year and the bride's family hosted a

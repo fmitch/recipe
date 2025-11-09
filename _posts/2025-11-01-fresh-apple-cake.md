@@ -1,6 +1,5 @@
 ---
-title: "Fresh Apple Cake - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Fresh Apple Cake - AHC
 From Analaine's Home Cooking
 
 The box of apples in the garage won't keep forever. Some are starting to go soft and I need to do

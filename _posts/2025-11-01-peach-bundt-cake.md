@@ -1,6 +1,5 @@
 ---
-title: "Peach Bundt Cake - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Peach Bundt Cake - AHC
 From Analaine's Home Cooking
 
 I got this recipe from one of my son's college buddies back in the 1980's. Although Mark

@@ -1,6 +1,5 @@
 ---
-title: "Black Bean Vegetarian Chili - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Black Bean Vegetarian Chili - AHC
 From Analaine's Home Cooking
 
 My friend Wilma likes soup almost as much as I do. Last week she brought me a couple of

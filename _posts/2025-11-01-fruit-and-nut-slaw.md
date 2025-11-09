@@ -1,6 +1,5 @@
 ---
-title: "Fruit and Nut Slaw - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - salad
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Fruit and Nut Slaw - AHC
 From Analaine's Home Cooking
 
 Summertime is the perfect time for salads, especially those that are nutritious, filling, and don't

@@ -1,6 +1,5 @@
 ---
-title: "Fresh Raspberry Pie - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Fresh Raspberry Pie - AHC
 From Analaine's Home Cooking
 
 The raspberries are on, and we have thoroughly enjoyed them. They enhance any dry breakfast

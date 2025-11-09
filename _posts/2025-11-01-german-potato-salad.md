@@ -1,6 +1,5 @@
 ---
-title: "German Potato Salad
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - potato
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# German Potato Salad
 From Analaine's Home Cooking
 
 My daughter Karma lives in Germany. I try to visit her and her family once a year if I can. I

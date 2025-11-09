@@ -1,6 +1,5 @@
 ---
-title: "Marshmallows - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Marshmallows - AHC
 From Analaine's Home Cooking
 
 I was in high school when we received a Christmas package from my Aunt Lois, who lived 400

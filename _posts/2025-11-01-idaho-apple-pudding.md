@@ -1,6 +1,5 @@
 ---
-title: "Idaho Apple Pudding - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Idaho Apple Pudding - AHC
 From Analaine's Home Cooking
 
 My dad was an apple farmer. Although we lived on the western boundary of Idaho, he shipped

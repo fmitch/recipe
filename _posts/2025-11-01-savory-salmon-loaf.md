@@ -1,6 +1,5 @@
 ---
-title: "Savory Salmon Loaf - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - salmon
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Savory Salmon Loaf - AHC
 From Analaine's Home Cooking
 
 Here is another recipe from my old green cookbook. I used to make this often when my kids

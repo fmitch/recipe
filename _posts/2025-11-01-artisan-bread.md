@@ -1,6 +1,5 @@
 ---
-title: "Artisan Bread - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Artisan Bread - AHC
 From Analaine's Home Cooking
 
 I was invited out to lunch recently, and the hostess served soup and homemade Artisan bread.

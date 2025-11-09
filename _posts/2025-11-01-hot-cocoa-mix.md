@@ -1,6 +1,5 @@
 ---
-title: "Hot Cocoa Mix - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,6 +10,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Hot Cocoa Mix - AHC
 From Analaine's Home Cooking
 
 A cup of hot chocolate is a staple for a lot of families that live in a cold-weather country. It's a

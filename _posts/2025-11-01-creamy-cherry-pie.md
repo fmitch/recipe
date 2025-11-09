@@ -1,6 +1,5 @@
 ---
-title: "Creamy Cherry Pie - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - cherry
@@ -10,6 +9,7 @@ authors:
   - name: Elaine Mitchell
 ---
 
+# Creamy Cherry Pie - AHC
 From Analaine's Home Cooking
 
 I usually make a cherry pie in February. It's tradition, I guess.

@@ -1,6 +1,5 @@
 ---
-title: "Korean Rib Marinade
-"tags:
+tags:
   - beef
   - grilling
 authors:
@@ -9,6 +8,7 @@ authors:
 description: Marinade for ribs and maybe bulgogi?
 ---
 
+# Korean Rib Marinade
 
 ## ingredients
 * 1/3-1/2 cup soy sauce

@@ -1,6 +1,5 @@
 ---
-title: "Apricot Chicken - AHC
-"tags:
+tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -12,6 +11,7 @@ authors:
 
 ---
 
+# Apricot Chicken - AHC
 From Analaine's Home Cooking
 
 This recipe is so easy you can't believe it. When my friend gave it to me years ago I was a little
