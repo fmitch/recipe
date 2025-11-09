@@ -6,7 +6,6 @@ tags:
   - spicy
 authors:
   - name: Sarah Mitchell    
-    avatar: ":cook:"
 description: Chipotle Mayo
 ---
 

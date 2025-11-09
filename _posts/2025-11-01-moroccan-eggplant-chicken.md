@@ -5,7 +5,6 @@ tags:
   - chicken
 authors:
   - name: Sarah Mitchell
-    avatar: ":cook:"
 description: Chicken and Couscous
 ---
 

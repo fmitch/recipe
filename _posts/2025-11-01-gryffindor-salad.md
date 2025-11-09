@@ -4,7 +4,6 @@ tags:
   - salad
 authors:
   - name: Katie Jones
-    avatar: ":cook:"
 description: Gryffindor Salad
 ---
 

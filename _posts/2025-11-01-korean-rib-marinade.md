@@ -5,7 +5,6 @@ tags:
   - grilling
 authors:
   - name: Alan Mitchell
-    avatar: ":cook:"
 description: Marinade for ribs and maybe bulgogi?
 ---
 

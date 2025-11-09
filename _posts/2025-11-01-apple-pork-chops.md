@@ -9,7 +9,6 @@ categories:
   - meats
 authors:
   - name: Elaine Mitchell
-    avatar: ":cook:"
 
 ---
 

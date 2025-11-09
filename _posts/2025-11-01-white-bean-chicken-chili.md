@@ -6,7 +6,6 @@ tags:
   - spicy
 authors:
   - name: Matt & Monica
-    avatar: ":cook:"
 description: Chili
 ---
 
