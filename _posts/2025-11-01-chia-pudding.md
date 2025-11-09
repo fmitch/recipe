@@ -1,11 +1,11 @@
 ---
-tags:
+title: "Chia Pudding
+"tags:
   - breakfast
 
 description: Chia Pudding
 ---
 
-# Chia Pudding
 
 ## info  
 * Makes: 1 serving

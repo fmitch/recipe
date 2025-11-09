@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Oatmeal Cake - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Oatmeal Cake - AHC
 From Analaine's Home Cooking
 
 My recipe filing system out-grew the small metal box I started out with years ago.

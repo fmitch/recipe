@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Apricot Bars - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Apricot Bars - AHC
 From Analaine's Home Cooking
 
 This recipe came from a friend of my daughter. Helen was the mother of 7 children. She

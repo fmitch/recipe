@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Cherry Chews - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Cherry Chews - AHC
 From Analaine's Home Cooking
 
 This is a little late for Christmas, but maybe it's perfect timing for your Valentine Day party.

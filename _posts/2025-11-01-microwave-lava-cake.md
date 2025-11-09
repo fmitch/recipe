@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Microwave Lava Cake
+"tags:
   - borrowed
   - dessert
   - microwave
@@ -7,7 +8,6 @@ authors:
   - name: r/1200isplenty
 ---
 
-# Microwave Lava Cake
 
 ## info
 * Source: Adapted from Reddit r/1200isplenty

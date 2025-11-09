@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Sauerkraut Salad
+"tags:
   - analaine
   - Grandma Elaine
   - salad
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Sauerkraut Salad
 From Analaine's Home Cooking
 
 Mt. Angel, Oregon is a quaint little town on the western slopes of the Cascade Range, settled by

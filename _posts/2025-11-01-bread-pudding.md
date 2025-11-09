@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Bread Pudding - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Bread Pudding - AHC
 From Analaine's Home Cooking
 
 While visiting family recently in Texas, we ate at a roadside barbecue on the way to San

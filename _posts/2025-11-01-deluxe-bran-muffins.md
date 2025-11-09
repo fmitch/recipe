@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Deluxe Bran Muffins - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Deluxe Bran Muffins - AHC
 From Analaine's Home Cooking
 
 Kellogg's All-Bran has been on my standard shopping list for years. It seemed like they always

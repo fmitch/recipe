@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Homemade Ice Cream - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Homemade Ice Cream - AHC
 From Analaine's Home Cooking
 
 In my teenage years at home, one of our family treats was making homemade ice cream.

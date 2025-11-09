@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Pumpkin Roll - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Pumpkin Roll - AHC
 From Analaine's Home Cooking
 
 It's pumpkin season, and there are other ways to use this hearty vegetable than just in pumpkin

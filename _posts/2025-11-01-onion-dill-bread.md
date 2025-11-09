@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Flora's Onion-Dill Bread - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Flora's Onion-Dill Bread - AHC
 From Analaine's Home Cooking
 
 This is a recipe I've had for nearly 40 years. It came from my friend, Flora Moschetti, who lives

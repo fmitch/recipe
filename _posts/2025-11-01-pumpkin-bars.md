@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Pumpkin Bars - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Pumpkin Bars - AHC
 From Analaine's Home Cooking
 
 Even though Halloween has come and gone, there's still plenty of pumpkin around. The grocery

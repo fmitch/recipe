@@ -1,12 +1,12 @@
 ---
-tags:
+title: "Sausage Squash Crepe Filling
+"tags:
   - breakfast
   - wip
   - homebrew
 description: Sausage Squash Crepe Filling
 ---
 
-# Sausage Squash Crepe Filling
 
 ## info  
 * Makes:

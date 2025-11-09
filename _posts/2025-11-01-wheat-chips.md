@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Wheat Chips - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - chips
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Wheat Chips - AHC
 From Analaine's Home Cooking
 
 These Wheat Chips are a good substitute for potato chips. They are about the same thickness,

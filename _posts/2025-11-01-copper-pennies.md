@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Copper Pennies Salad - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - salad
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Copper Pennies Salad - AHC
 From Analaine's Home Cooking
 
 It was a teachers' potluck over 50 years ago when Earlene Anderson brought this treat. She was

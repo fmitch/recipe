@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Peanut-Chicken Stir Fry - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Peanut-Chicken Stir Fry - AHC
 From Analaine's Home Cooking
 
 For as long as I can remember, Chinese cuisine has been a favorite of our family. Whenever we

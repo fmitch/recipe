@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Summer Vegetable Frittata - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - vegetable
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Summer Vegetable Frittata - AHC
 From Analaine's Home Cooking
 
 Frittatas are quiches without the crust. They have recently become popular, as they are lower in

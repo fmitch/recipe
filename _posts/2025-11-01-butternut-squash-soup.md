@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Butternut Squash Soup - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Butternut Squash Soup - AHC
 From Analaine's Home Cooking
 
 At Christmastime, I attended a fancy DAR luncheon. Featured on the menu was Butternut

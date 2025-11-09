@@ -1,11 +1,11 @@
 ---
-tags:
+title: "Sausage Mushroom Crepe Filling
+"tags:
   - breakfast
   - savory
 description: Filling for crepes
 ---
 
-# Sausage Mushroom Crepe Filling
 
 ## info  
 * Makes: servings for 2 adults

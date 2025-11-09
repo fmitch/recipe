@@ -1,10 +1,10 @@
 ---
-tags:
+title: "Steel Cut Oats
+"tags:
   - breakfast
 description: Steel Cut Oats
 ---
 
-# Steel Cut Oats
 
 ## info  
 * Makes: 4 servings

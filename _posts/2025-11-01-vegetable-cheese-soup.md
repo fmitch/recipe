@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Vegetable-Cheese Soup - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Vegetable-Cheese Soup - AHC
 From Analaine's Home Cooking
 
 January is the month for soups. It's cold and stormy outside, and nothing quite hits the spot like

@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Homemade French Bread - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Homemade French Bread - AHC
 From Analaine's Home Cooking
 
 I've had this recipe since the early 1970's. When we lived in Madras, Oregon, my friend Vicki

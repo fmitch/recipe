@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Gryffindor Salad
+"tags:
   - salad
 authors:
   - name: Katie Jones
@@ -7,7 +8,6 @@ authors:
 description: Gryffindor Salad
 ---
 
-# Gryffindor Salad
 
 
 ## info

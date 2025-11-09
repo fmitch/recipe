@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Mud Pie Brownies - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Mud Pie Brownies - AHC
 From Analaine's Home Cooking
 
 My thirteen-year-old grandson, Nate, is a Life Scout, working on his Eagle. He has signed up to

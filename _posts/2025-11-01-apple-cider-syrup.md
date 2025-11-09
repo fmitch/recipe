@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Apple Cider Syrup - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - sauce
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Apple Cider Syrup - AHC
 From Analaine's Home Cooking
 
 * 1/2 cup brown sugar

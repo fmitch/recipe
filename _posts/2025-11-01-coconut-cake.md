@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Coconut Cake - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - coconut cake
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Coconut Cake - AHC
 From Analaine's Home Cooking
 
 When my kids were little they thought it was great fun to have an Easter cake that was covered

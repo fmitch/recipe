@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Bok Choy Soup - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - soup
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Bok Choy Soup - AHC
 From Analaine's Home Cooking
 
 My granddaughter, Lorraine Zhang, recently visited me from Germany. Since her husband is

@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Vegetable Beef Salad - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - beef
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Vegetable Beef Salad - AHC
 From Analaine's Home Cooking
 
 This recipe came from my friend Hildegard, who lives in Germany. I had never tasted anything

@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Pineapple-Zucchini Bread - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Pineapple-Zucchini Bread - AHC
 From Analaine's Home Cooking
 
 For as long as I can remember I have made zucchini bread. It's just the thing I do when the

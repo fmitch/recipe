@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Velveeta Peanut Butter Fudge - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -11,7 +12,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Velveeta Peanut Butter Fudge - AHC
 
 Here's a recipe for a Christmas goodie that's a little different from the regular run-of-the-mill
 Christmas candies. What??? I can almost hear you saying. Velveeta cheese in a candy recipe? I

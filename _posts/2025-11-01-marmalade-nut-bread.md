@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Marmalade-Nut Bread - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Marmalade-Nut Bread - AHC
 From Analaine's Home Cooking
 
 One of the best things about the holidays is the baking that I do for friends and neighbors. There

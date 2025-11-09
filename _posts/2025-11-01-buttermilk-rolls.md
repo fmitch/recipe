@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Buttermilk Rolls - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - bread
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Buttermilk Rolls - AHC
 From Analaine's Home Cooking
 
 Surely, some of the world's best cooks live in Cache Valley, Utah. I've never known so many

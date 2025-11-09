@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Rhubarb Crunch - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - dessert
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Rhubarb Crunch - AHC
 From Analaine's Home Cooking
 
 The rhubarb is on... a sure sign of spring around here.

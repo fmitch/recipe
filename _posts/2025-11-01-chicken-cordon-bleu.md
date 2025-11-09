@@ -1,5 +1,6 @@
 ---
-tags:
+title: "Chicken Cordon Bleu - AHC
+"tags:
   - analaine
   - Grandma Elaine
   - chicken
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Chicken Cordon Bleu - AHC
 From Analaine's Home Cooking
 
 This basic recipe came from my friend, Beth Somers, in Logan, Utah; although I've changed it
