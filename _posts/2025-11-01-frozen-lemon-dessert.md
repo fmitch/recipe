@@ -1,4 +1,5 @@
 ---
+title: "Frozen Lemon Dessert - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Frozen Lemon Dessert - AHC
 From Analaine's Home Cooking
 
 I am fortunate to have friends who love to cook, and are happy to share their recipes. This one

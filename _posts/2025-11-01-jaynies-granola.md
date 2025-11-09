@@ -1,4 +1,5 @@
 ---
+title: "Jaynie's Granola - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Jaynie's Granola - AHC
 From Analaine's Home Cooking
 
 My daughter-in-law Jaynie is a great fan of snacks and "munchies", especially if they are

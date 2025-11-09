@@ -1,4 +1,5 @@
 ---
+title: "Apple Dumplings - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Apple Dumplings - AHC
 From Analaine's Home Cooking
 
 Over 50 years ago I was given a cookbook called The Encyclopedic Cookbook, put out by the

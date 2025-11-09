@@ -1,4 +1,5 @@
 ---
+title: "Chipotle Mayo"
 tags:
   - homebrew 
   - condiment
@@ -9,7 +10,6 @@ authors:
 description: Chipotle Mayo
 ---
 
-# Chipotle Mayo
 Creamy, smoky, spicy sauce.
 
 ## info

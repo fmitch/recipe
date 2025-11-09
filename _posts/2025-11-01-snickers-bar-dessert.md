@@ -1,4 +1,5 @@
 ---
+title: "Snicker Bar Dessert - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -12,7 +13,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Snicker Bar Dessert - AHC
 From Analaine's Home Cooking
 
 The ladies from my local church meet together for a potluck once a month. We are called "The

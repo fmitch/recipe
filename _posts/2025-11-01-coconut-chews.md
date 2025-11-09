@@ -1,4 +1,5 @@
 ---
+title: "Coconut Chews - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Coconut Chews - AHC
 From Analaine's Home Cooking
 
 If you're a coconut lover, you've got to try these Coconut Chews.

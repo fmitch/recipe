@@ -1,4 +1,5 @@
 ---
+title: "Gryffindor Salad"
 tags:
   - salad
 authors:
@@ -7,7 +8,6 @@ authors:
 description: Gryffindor Salad
 ---
 
-# Gryffindor Salad
 
 
 ## info

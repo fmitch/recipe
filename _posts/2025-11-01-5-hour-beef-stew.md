@@ -1,4 +1,5 @@
 ---
+title: "5-Hour Beef Stew - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# 5-Hour Beef Stew - AHC
 From Analaine's Home Cooking
 
 I first became acquainted with this recipe in l981 when my husband and I went to visit a sister-

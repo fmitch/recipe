@@ -1,4 +1,5 @@
 ---
+title: "Southwest Summer Salad - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Southwest Summer Salad - AHC
 From Analaine's Home Cooking
 
 Here's a recipe from my granddaughter Jena, who lives in Texas. For a young married gal, she

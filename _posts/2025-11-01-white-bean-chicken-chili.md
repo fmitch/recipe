@@ -1,4 +1,5 @@
 ---
+title: "White Bean Chicken Chili"
 tags:
   - borrowed
   - soup
@@ -9,7 +10,6 @@ authors:
 description: Chili
 ---
 
-# White Bean Chicken Chili
 
 ## info
 * Source: Matt and Monica Dean

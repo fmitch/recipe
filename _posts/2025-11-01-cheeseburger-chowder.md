@@ -1,4 +1,5 @@
 ---
+title: "Cheeseburger Chowder - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Cheeseburger Chowder - AHC
 From Analaine's Home Cooking
 
 A brisk spring day calls for another soup recipe. This one is full of nutrition (and calories), but

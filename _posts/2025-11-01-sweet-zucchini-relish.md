@@ -1,4 +1,5 @@
 ---
+title: "Sweet Zucchini Relish - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Sweet Zucchini Relish - AHC
 From Analaine's Home Cooking
 
 Seems like I've always made pickles and relish in the late summer when cucumbers and onions

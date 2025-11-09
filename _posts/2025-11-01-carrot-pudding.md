@@ -1,4 +1,5 @@
 ---
+title: "Carrot Pudding - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Carrot Pudding - AHC
 From Analaine's Home Cooking
 
 My mother was an excellent cook, but she did not do pie. Cobblers and cakes, yes, but not pies.

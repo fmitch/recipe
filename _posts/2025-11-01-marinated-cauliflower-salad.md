@@ -1,4 +1,5 @@
 ---
+title: "Marinated Cauliflower Salad - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Marinated Cauliflower Salad - AHC
 From Analaine's Home Cooking
 
 As a kid growing up I never knew what cauliflower was. I suppose that's because we raised all

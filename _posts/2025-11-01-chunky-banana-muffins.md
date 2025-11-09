@@ -1,4 +1,5 @@
 ---
+title: "Chunky Banana Muffins - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Chunky Banana Muffins - AHC
 From Analaine's Home Cooking
 
 I don't know why I keep buying bananas. I don't really like them, but they always look so

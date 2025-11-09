@@ -1,11 +1,11 @@
 ---
+title: "German Pancakes"
 tags:
   - breakfast
 
 description: German Pancakes
 ---
 
-# German Pancakes
 
 ## info  
 * Makes: One 9x13 pan

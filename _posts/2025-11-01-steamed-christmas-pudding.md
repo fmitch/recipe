@@ -1,4 +1,5 @@
 ---
+title: "Steamed Christmas Pudding - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Steamed Christmas Pudding - AHC
 From Analaine's Home Cooking
 
 My maternal grandparents were English, and holiday dinners always remind me of them. I

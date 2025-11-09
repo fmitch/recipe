@@ -1,4 +1,5 @@
 ---
+title: "Moroccan Eggplant Chicken"
 tags:
   - homebrew
   - chicken
@@ -8,7 +9,6 @@ authors:
 description: Chicken and Couscous
 ---
 
-# Moroccan Eggplant Chicken
 
 
 ## info  

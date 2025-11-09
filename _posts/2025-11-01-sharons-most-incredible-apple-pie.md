@@ -1,4 +1,5 @@
 ---
+title: "Sharon's Most Incredible Apple Pie - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Sharon's Most Incredible Apple Pie - AHC
 
 For the past 20 years my daughter, Sharon, has worked on making the perfect pie, admitting to
 trying over 50 diff erent recipes. She has used an idea here, a suggestion there, and some more

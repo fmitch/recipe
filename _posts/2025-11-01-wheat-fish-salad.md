@@ -1,4 +1,5 @@
 ---
+title: "Wheat-Fish Salad - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Wheat-Fish Salad - AHC
 From Analaine's Home Cooking
 
 When Kay and Jean Haws (from Bountiful, Utah) send their annual Christmas letter, they

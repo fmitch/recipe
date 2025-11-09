@@ -1,4 +1,5 @@
 ---
+title: "Roasted Root Vegetable Soup - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Roasted Root Vegetable Soup - AHC
 From Analaine's Home Cooking
 
 Robert Newell was an early Oregon pioneer who was influential in establishing the provincial

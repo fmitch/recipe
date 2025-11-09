@@ -1,4 +1,5 @@
 ---
+title: "Caramel Pudding Cake"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Caramel Pudding Cake
 From Analaine's Home Cooking
 
 I got this recipe many years ago while visiting my friend Karen Radich, who lives on the

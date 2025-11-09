@@ -1,4 +1,5 @@
 ---
+title: "Sausage Squash Crepe Filling"
 tags:
   - breakfast
   - wip
@@ -6,7 +7,6 @@ tags:
 description: Sausage Squash Crepe Filling
 ---
 
-# Sausage Squash Crepe Filling
 
 ## info  
 * Makes:

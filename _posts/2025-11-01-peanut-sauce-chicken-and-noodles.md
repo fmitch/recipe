@@ -1,4 +1,5 @@
 ---
+title: "Kate's Peanut Sauce w/ Chicken & Noodles - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -12,7 +13,6 @@ authors:
 
 ---
 
-# Kate's Peanut Sauce w/ Chicken & Noodles - AHC
 From Analaine's Home Cooking
 
 My granddaughter Kate is becoming quite an excellent cook, due in part by helping her dad in

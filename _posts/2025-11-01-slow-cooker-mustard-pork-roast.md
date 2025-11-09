@@ -1,4 +1,5 @@
 ---
+title: "Slow-cooker Mustard Pork Roast - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Slow-cooker Mustard Pork Roast - AHC
 From Analaine's Home Cooking
 
 This recipe is one I adapted from a Southern Cooking cookbook. You may be surprised at the

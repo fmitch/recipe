@@ -1,4 +1,5 @@
 ---
+title: "Chocolate Zucchini Zappers - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Chocolate Zucchini Zappers - AHC
 From Analaine's Home Cooking
 
 How many more ways can you use zucchini? Here's one I think you'll like. You can't even tell

@@ -1,4 +1,5 @@
 ---
+title: "Stuffed Tomatoes - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Stuffed Tomatoes - AHC
 From Analaine's Home Cooking
 
 The tomatoes are on, and my how we enjoy them! A fresh picked tomato, sweet and juicy, full

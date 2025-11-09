@@ -1,4 +1,5 @@
 ---
+title: "Indian Fry Bread - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Indian Fry Bread - AHC
 From Analaine's Home Cooking
 
 When we lived in Central Oregon, we were close to the Warm Springs Indian Reservation. It

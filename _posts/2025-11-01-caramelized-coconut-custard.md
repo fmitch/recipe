@@ -1,4 +1,5 @@
 ---
+title: "Caramelized Coconut Custard - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Caramelized Coconut Custard - AHC
 From Analaine's Home Cooking
 
 If you are looking for a dessert that is smooth, creamy, and full of flavor, then here is one for

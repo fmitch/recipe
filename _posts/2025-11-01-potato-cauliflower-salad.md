@@ -1,4 +1,5 @@
 ---
+title: "Potato-Cauliflower Salad - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Potato-Cauliflower Salad - AHC
 From Analaine's Home Cooking
 
 This is a little different twist on a potato salad, but one I like to take to a picnic because there

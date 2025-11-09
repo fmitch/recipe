@@ -1,4 +1,5 @@
 ---
+title: "Hello, World!"
 tags:
   - delicious
   - good
@@ -15,7 +16,6 @@ description: Hello, World in Chef
 foo: "baz"
 ---
 
-# Hello, World!
 
 ![](/static/hello-world-kake/hello-world-fin.webp)
 

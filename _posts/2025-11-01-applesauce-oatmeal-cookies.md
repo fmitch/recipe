@@ -1,4 +1,5 @@
 ---
+title: "Applesauce Oatmeal Cookies"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Applesauce Oatmeal Cookies
 From Analaine's Home Cooking
 
 This recipe is one of my mother's. When it came to making cookies, she just could not bring

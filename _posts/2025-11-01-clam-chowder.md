@@ -1,4 +1,5 @@
 ---
+title: "Clam Chowder - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Clam Chowder - AHC
 
 Our friends, Rich and Sandi Candland, lived on the Oregon Coast. One summer they invited us
 over for a weekend to go clam-diggin'. That's been over 30 years ago, and yet, I remember it

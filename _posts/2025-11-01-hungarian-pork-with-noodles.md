@@ -1,4 +1,5 @@
 ---
+title: "Hungarian Pork with Noodles"
 tags:
   - analaine
   - Grandma Elaine
@@ -12,7 +13,6 @@ authors:
 
 ---
 
-# Hungarian Pork with Noodles
 From Analaine's Home Cooking
 
 Over the years when I would cook pork, I usually seasoned it with sage, thyme, salt and pepper.

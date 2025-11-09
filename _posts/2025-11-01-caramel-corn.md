@@ -1,4 +1,5 @@
 ---
+title: "Melba's Caramel Corn - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -9,7 +10,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Melba's Caramel Corn - AHC
 From Analaine's Home Cooking
 
 I must have more than a dozen recipes for caramel corn that I've gathered over the years. Each

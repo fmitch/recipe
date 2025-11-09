@@ -1,4 +1,5 @@
 ---
+title: "Chicken-Avocado Casserole - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -11,7 +12,6 @@ authors:
 
 ---
 
-# Chicken-Avocado Casserole - AHC
 From Analaine's Home Cooking
 
 This recipe came from a cozy little Bed-and-Breakfast in John Day, Oregon. We've had it in our

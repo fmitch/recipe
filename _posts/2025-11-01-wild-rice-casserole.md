@@ -1,4 +1,5 @@
 ---
+title: "Wild Rice Casserole - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Wild Rice Casserole - AHC
 From Analaine's Home Cooking
 
 This recipe came from my long-ago neighbor, Karen Thomas. She was a nurse, and with her

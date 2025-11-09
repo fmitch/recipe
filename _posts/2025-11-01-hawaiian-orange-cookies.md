@@ -1,4 +1,5 @@
 ---
+title: "Hawaiian Orange Cookies - AHC"
 tags:
   - analaine
   - Grandma Elaine
@@ -10,7 +11,6 @@ authors:
   - name: Elaine Mitchell
 ---
 
-# Hawaiian Orange Cookies - AHC
 From Analaine's Home Cooking
 
 The holidays seem to be a time when we make extra cookies and treats, at least I do. It's good to
